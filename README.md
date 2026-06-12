@@ -1,1 +1,1 @@
-# 2_course_OSP_Laba1_2
+# 2-course-osp-laba1-2
